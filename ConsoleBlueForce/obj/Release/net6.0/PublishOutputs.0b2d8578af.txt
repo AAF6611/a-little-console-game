@@ -1,0 +1,5 @@
+E:\دانشگاه\ConsoleBlueForce\ConsoleBlueForce.exe
+E:\دانشگاه\ConsoleBlueForce\ConsoleBlueForce.dll
+E:\دانشگاه\ConsoleBlueForce\ConsoleBlueForce.deps.json
+E:\دانشگاه\ConsoleBlueForce\ConsoleBlueForce.runtimeconfig.json
+E:\دانشگاه\ConsoleBlueForce\ConsoleBlueForce.pdb
